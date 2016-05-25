@@ -16,7 +16,6 @@ figure  {
 }
 
 body {
-  background-color: #E3F1F2;
   border: 15px ridge green;
   border-radius: 25px;
 }
@@ -135,4 +134,12 @@ progress{
 .html5 {
     width: 80px;
     height : 80px;
+}
+.container-fluid {
+    background-image: url(Images/fond-d-ecran-ordinateur-gratuit_1.jpg);
+   background-attachment: fixed;
+}
+
+.exper_fond {
+    background-color: whitesmoke;
 }
