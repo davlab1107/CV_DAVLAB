@@ -7,13 +7,59 @@ border-radius: 50px;
 
 }
 .binary {
- height : 160px;
+ height : 100px;
  float: right;
  }
 
 figure  {
   text-align: center;
 }
+
+.row1 {
+    margin-left:430px;
+    margin-right:250px;
+    height: 40px;
+    
+    
+}
+
+.row2 {
+    margin: auto;
+    
+    
+}
+.html{
+    height :60px;
+    width:60px;
+    
+}
+.github {
+    height :50px;
+    width:50px;
+    text-align: center;
+    
+}
+.linux {
+    height :60px;
+    width:60px;
+}
+.ININ {
+    height :50px;
+    width:50px;
+    text-align: center;
+    margin-top: -10px;
+}
+.cisco {
+     height :50px;
+    width:50px;
+    text-align: center;
+     
+}
+
+#avacisIN {
+    text-align: center;
+    margin:auto;
+    }
 
 body {
   border: 15px ridge green;
@@ -47,14 +93,14 @@ h1 {
   }
   #progress_Télécoms {
     width: 100px;
-    margin: auto;
+    margin-left: 490px;
     font-size: 15px;
     padding: 1px 120px 1px 1px;
     font-family: fantasy;
   }
   #progress_Réseaux {
     width: 100px;
-    margin: auto;
+    margin-left: 500px;
     font-size: 15px;
     padding: 1px 120px 1px 1px;
     font-family: fantasy;
@@ -81,6 +127,7 @@ progress{
   font-family: verdana;
   float :left;
   margin:2px 4px 4px 4px;
+  height:200px;
   }
 
 
@@ -115,25 +162,29 @@ progress{
 }
 
 .avaya {
-    width: 80px;
-    height : 80px;
+    width: 50px;
+    height : 50px;
 }
 
 .github {
-    width: 80px;
-    height : 80px;
+    width: 70px;
+    height : 70px;
 }
 .linux {
-    width: 80px;
-    height : 80px;
+    width: 70px;
+    height : 70px;
 }
-.cisco {
-    width: 80px;
-    height : 80px;
+#cisco1 {
+   text-align: center;
+   margin-left:100px;
+    
 }
+
+
 .html5 {
-    width: 80px;
-    height : 80px;
+    width: 70px;
+    height : 70px;
+    
 }
 .container-fluid {
     background-image: url(Images/fond-d-ecran-ordinateur-gratuit_1.jpg);
@@ -143,4 +194,5 @@ progress{
 .exper_fond {
     background-color: whitesmoke;
 }
+
 
